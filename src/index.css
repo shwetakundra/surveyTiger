@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.question-container{
+  padding:20px;
+  width:400px;
+}
+
+.question-container .inputField{
+ margin-bottom: 20px;
+
+}
+.question-container .inputFieldText{
+ text-align: left;  
+ font-size: 20px;
+
+}
+.question-buttons {
+  
+}
+.survey-main-btn{
+  
+  padding :50px;
+  width :150px;
+  margin:15px;
+  background-color: #af5f46;
+  border:none;
+}
